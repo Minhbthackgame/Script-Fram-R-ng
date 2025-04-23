@@ -1,0 +1,5 @@
+getgenv().Team = "Pirates" -- Pirates/Marines
+
+getgenv().Hide_Menu = true -- true/false
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibiditoiletgojo/Haidepzai/refs/heads/main/Autochest-Akgamingez"))()
